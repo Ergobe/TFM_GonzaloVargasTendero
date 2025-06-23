@@ -1,0 +1,7 @@
+- 200_MOT -> hiperparámetros: 25.06 s -> Total: 82.66 s
+- 200_MOT_OPT -> hiperparámetros: 23.64 s -> Total: 80.04 s
+- 400_MOT -> hiperparámetros: 41.14 s -> Total: 108.02 s
+- 400_MOT_OPT -> hiperparámetros: 28.56 s -> Total: 89.69 s
+- 600_MOT -> hiperparámetros: 69.96 s -> Total: 161.73 s
+- 1000_MOT -> hiperparámetros: 183.71 s -> Total: 415.20 s
+- 5000_MOT -> hiperparámetros: 5907.08 s -> Total: 11557.01 s

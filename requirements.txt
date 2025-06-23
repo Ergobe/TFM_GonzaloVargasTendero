@@ -1,0 +1,10 @@
+joblib
+keras
+matplotlib
+numpy
+pandas
+scikeras
+scikit-learn
+scikit-optimize
+seaborn
+tensorflow

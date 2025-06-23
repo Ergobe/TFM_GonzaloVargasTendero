@@ -1,0 +1,15 @@
+Evaluación Inicial: 198.14 s
+
+Hiperparámetros:
+	- PLS: 			3.40 s	
+	- LR:			0.12 s
+	- Kriging (GPR):	168.34 s
+	- SVR:			199.10 s
+	- RF:			107.15 s
+	- ANN:			1130.87 s
+	- ANN-K: 		1037.46 s
+	- Total: 		2646.49 s
+
+Evaluación final:		72.86 s
+
+Tiempo total del programa:	2931.09 s

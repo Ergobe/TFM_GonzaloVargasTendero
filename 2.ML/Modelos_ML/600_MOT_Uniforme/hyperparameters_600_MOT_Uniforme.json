@@ -1,0 +1,49 @@
+{
+    "PLS": {
+        "model__max_iter": 500,
+        "model__n_components": 7,
+        "model__scale": false,
+        "model__tol": 1e-05
+    },
+    "LR": {
+        "model__copy_X": true,
+        "model__fit_intercept": true,
+        "model__positive": false
+    },
+    "GPR": {
+        "model__estimator__alpha": 4.908351200924686e-07,
+        "model__estimator__kernel__k1__length_scale": 43.51397079152049,
+        "model__estimator__kernel__k2__noise_level": 21.31473749913288,
+        "model__estimator__normalize_y": true
+    },
+    "SVR": {
+        "model__estimator__C": 100,
+        "model__estimator__epsilon": 0.001,
+        "model__estimator__gamma": "scale",
+        "model__estimator__kernel": "rbf"
+    },
+    "RF": {
+        "model__max_depth": null,
+        "model__max_features": "log2",
+        "model__min_samples_leaf": 1,
+        "model__min_samples_split": 2,
+        "model__n_estimators": 100
+    },
+    "ANN": {
+        "model__activation": "logistic",
+        "model__alpha": 1e-05,
+        "model__hidden_layer_sizes": [
+            50,
+            50
+        ],
+        "model__learning_rate_init": 0.0001,
+        "model__max_iter": 1000,
+        "model__solver": "lbfgs"
+    },
+    "ANN-K": {
+        "model__batch_size": 16,
+        "model__epochs": 500,
+        "model__hidden_layer_size": 200,
+        "model__hidden_layer_size_2": 10
+    }
+}
