@@ -9,7 +9,7 @@
 - **Reducir** drásticamente el coste computacional frente a métodos tradicionales de diseño iterativo.  
 
 ## Estructura de carpetas
-'''
+```
 TFM_GonzaloVargasTendero/
 ├─ requirements.txt
 ├─ README.md
@@ -32,7 +32,7 @@ TFM_GonzaloVargasTendero/
 │ ├─ DB_DBG/
 │ ├─ Figuras_DBG/
 │ └─ Modelos_DBG/
-'''
+```
 
 - Cada subcarpeta `DB_*` contiene los CSV de entrada.  
 - Cada subcarpeta `Figuras_*` almacena gráficos generados.  
